@@ -1,0 +1,6 @@
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 30%);
+  grid-template-rows: minmax(406px, auto);
+  justify-content: space-between;
+}
